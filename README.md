@@ -1,8 +1,8 @@
 # Cardiovascular-Risk-Prediction
 
-Introduction
+### Introduction:
+-----
 Visting hospitals for regular check-ups it is almost always seen that they encourage people to get special check-ups to identify if they are at the risk of heart diseases. Heart diseases have unfortunately become very common. It may be due to various reasons such as lifestyle, work pressure, lack of exercise etc. In this project, we will be working on predicting 10 year risk of Coronary Heart Disease (CHD). We are given a set of variables which impact heart diseases. These variables are related to demographic, past and current medical history.
-------
 
 ### PROBLEM STATEMENT:
 -----
