@@ -10,12 +10,6 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 ### OBJECTIVE:
 -----
 The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) considering the other features.
-### KEY FACTS:
------
-- Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million people died from CVDs in 2019, representing 32% of all global deaths. Of these deaths, 85% were due to heart attack and stroke.
-- More than four out of five CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.
-- The most important behavioural risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol.
-- Over three quarters of CVD deaths take place in low- and middle-income countries.
 
 ### Variables
 *Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.*
